@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Reflex, Flet**
 
-- 👨‍💻 All of my projects are available at [https://hernandezpalo.vercel.app](https://hernandezpalo.vercel.app)
+- 👨‍💻 All of my projects are available at [https://hernandezpalo.es](https://hernandezpalo.es)
 
 - 📝 I regularly write articles on [https://hernandezpalo.pythonanywhere.com](https://hernandezpalo.pythonanywhere.com)
 
