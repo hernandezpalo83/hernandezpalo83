@@ -43,6 +43,18 @@ Soy un **Technical Product Manager (TPM)** con una sólida trayectoria en ingeni
 *Como TPM, mi actividad no se mide solo en commits, sino en la consistencia y arquitectura de las soluciones.*
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hernandezpalo83&show_icons=true&locale=en&layout=compact&theme=flat" alt="Top Langs" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hernandezpalo83&show_icons=true&locale=en&theme=flat" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandezpalo83&layout=compact&theme=flat&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Langs" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hernandezpalo83&show_icons=true&theme=flat&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hernandezpalo83&theme=flat&hide_border=true" alt="Streak Stats" />
+</p>
+
+---
+
+### 🤝 Conectemos
+¿Buscas a alguien que hable el idioma de los desarrolladores y entienda las necesidades del negocio? Hablemos.
+
+[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jhernandez14153" height="30" width="40" />](https://twitter.com/jhernandez14153)
+<br><br>
