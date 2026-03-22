@@ -79,37 +79,65 @@ Soy un **Technical Product Manager (TPM)** con sólida base en ingeniería de so
 
 ---
 
-## 📊 GitHub Stats
+## 📐 Lo que construyo
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hernandezpalo83&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=0e75b6&icon_color=0e75b6&cache_seconds=1800" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandezpalo83&layout=compact&theme=default&hide_border=true&langs_count=6&title_color=0e75b6&cache_seconds=1800" alt="Top Languages"/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=hernandezpalo83&theme=default&hide_border=true&ring=0e75b6&fire=CC0052&currStreakLabel=0e75b6" alt="GitHub Streak"/>
-
-*Como TPM, la consistencia y la arquitectura de las soluciones importan más que el volumen de commits.*
-
-</div>
+```text
+Prod → Dev         Traduzco requisitos de negocio a arquitectura técnica ejecutable
+Dev  → Prod        Llevo código a producción con CI/CD, monitorización y cero downtime
+Deuda técnica      La gestiono antes de que se convierta en riesgo de negocio
+Equipo             Code review, ADRs, documentación viva — no solo tickets
+```
 
 ---
 
 ## 🌟 Proyectos Destacados
 
-<div align="center">
-
-[![Portfolio Repo](https://github-readme-stats.vercel.app/api/pin/?username=hernandezpalo83&repo=porfolio&theme=default&hide_border=true&title_color=0e75b6&icon_color=0e75b6)](https://github.com/hernandezpalo83/porfolio)
-[![GymTracker Repo](https://github-readme-stats.vercel.app/api/pin/?username=hernandezpalo83&repo=gymtraker&theme=default&hide_border=true&title_color=0e75b6&icon_color=0e75b6)](https://github.com/hernandezpalo83/gymtraker)
-
-[![Componentes Repo](https://github-readme-stats.vercel.app/api/pin/?username=hernandezpalo83&repo=COMPONENTES&theme=default&hide_border=true&title_color=0e75b6&icon_color=0e75b6)](https://github.com/hernandezpalo83/COMPONENTES)
-
-</div>
-
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| 🌐 **[hernandezpalo.es](https://hernandezpalo.es)** | Portfolio profesional como CMS técnico escalable | `Django 5.1` `PostgreSQL` `REST API` `CI/CD` |
-| 💪 **[gym.hernandezpalo.es](https://gym.hernandezpalo.es)** | App de seguimiento de entrenamiento y gestión de inventario deportivo | `Django` `Tabulator JS` `Bootstrap 5` `DRF` |
-| 🧩 **[componentes.hernandezpalo.es](https://componentes.hernandezpalo.es)** | Librería privada de componentes UI reutilizables para Django (46+ componentes) | `Django` `Tailwind` `Bootstrap 5` `Glassmorphism` |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌐 hernandezpalo.es</h3>
+      <p>Portfolio profesional construido como <strong>CMS técnico escalable</strong>. SEO avanzado, feeds RSS, newsletter, búsqueda full-text y CI/CD automatizado.</p>
+      <p>
+        <a href="https://hernandezpalo.es"><img src="https://img.shields.io/badge/🔗_Live-CC0052?style=flat-square" alt="Live"/></a>
+        <a href="https://github.com/hernandezpalo83/porfolio"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Django_5.1-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💪 GymTracker</h3>
+      <p>App de <strong>seguimiento de entrenamiento</strong> e inventario deportivo. CRUD tabular en tiempo real, gestión de productos y métricas de sesión.</p>
+      <p>
+        <a href="https://gym.hernandezpalo.es"><img src="https://img.shields.io/badge/🔗_Live-0E75B6?style=flat-square" alt="Live"/></a>
+        <a href="https://github.com/hernandezpalo83/gymtraker"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tabulator_JS-0E75B6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧩 django-components-ui</h3>
+      <p><strong>Librería privada de 46+ componentes UI</strong> reutilizables para Django. Glassmorphism, Tabulator, Tailwind y Bootstrap integrados como template tags.</p>
+      <p>
+        <a href="https://componentes.hernandezpalo.es"><img src="https://img.shields.io/badge/🔗_Docs-6C757D?style=flat-square" alt="Docs"/></a>
+        <a href="https://github.com/hernandezpalo83/COMPONENTES"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Glassmorphism-0E75B6?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
