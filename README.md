@@ -1,60 +1,120 @@
-<h1 align="center">Hi 👋, I'm Javier Hernandez Martin</h1>
-<h2 align="center">Technical Product Manager | Senior Software Architect | Product Strategist</h2>
+<div align="center">
 
-<h3 align="center">Expertise en el ciclo de vida de producto (SDLC): uniendo visión de negocio y excelencia técnica.</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Javier+Hern%C3%A1ndez+Mart%C3%ADn;Technical+Product+Manager;Senior+Software+Architect;Building+where+Tech+meets+Business" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hernandezpalo83&label=Profile%20views&color=0e75b6&style=flat" alt="hernandezpalo83" />
-  <img src="https://img.shields.io/twitter/follow/jhernandez14153?logo=twitter&style=for-the-badge" alt="jhernandez14153" />
-</p>
+<br/>
 
----
+**`TPM · Architect · Builder — Del roadmap al deploy`**
 
-### 💼 Perfil Profesional
-Soy un **Technical Product Manager (TPM)** con una sólida trayectoria en ingeniería de software (**Nivel B-I Senior**). Mi valor diferencial es la capacidad de liderar la intersección entre ingeniería, diseño y negocio. No solo gestiono el "cómo", sino que defino el "qué" y el "por qué" para maximizar el ROI técnico y la satisfacción del usuario.
+<br/>
 
-- 🎯 **Enfoque Estratégico**: Transformación de requisitos ambiguos en **Roadmaps** técnicos ejecutables y escalables.
-- 🏗️ **Casos de Éxito**: Gestión integral de productos desde la concepción hasta el despliegue en [hernandezpalo.es](https://hernandezpalo.es)
-- ✍️ **Liderazgo de Pensamiento**: Analizo la evolución del ecosistema tech en [hernandezpalo.pythonanywhere.com](https://hernandezpalo.pythonanywhere.com)
-- ⚙️ **Metodologías**: Experto en **Agile, SCRUM y Kanban**, optimizando el flujo de entrega y la gestión del backlog.
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-hernandezpalo.es-CC0052?style=for-the-badge)](https://hernandezpalo.es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-PERFIL-LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jhernandez14153)
+[![Profile Views](https://komarev.com/ghpvc/?username=hernandezpalo83&style=for-the-badge&color=0e75b6&label=Visitas)](https://github.com/hernandezpalo83)
+
+</div>
 
 ---
 
-### 🛠️ Product & Tech Ecosystem
+## 💼 Quién soy
 
-#### **Product Discovery & Delivery (El Puente)**
-- **Estrategia**: Product Roadmap, Priorización (RICE/MoSCoW), User Stories, Gestión de Stakeholders.
-- **Calidad y Procesos**: CI/CD, Code Review estratégico, Gestión de Deuda Técnica, Documentación técnica (RFCs).
-- **Análisis**: Data-driven decisions con Pandas y SQL para métricas de producto (KPIs).
+Soy un **Technical Product Manager (TPM)** con sólida base en ingeniería de software (**Senior B-I**). Mi valor diferencial está en liderar la intersección entre **ingeniería, diseño y negocio**: no solo gestiono el *cómo*, sino que defino el *qué* y el *por qué* para maximizar el ROI técnico y la satisfacción del usuario.
 
-#### **Engineering Stack (La Base)**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</p>
+```text
+🎯 Estrategia      Roadmaps ejecutables · OKRs · Priorización RICE/MoSCoW
+🏗️ Arquitectura   Diseño de sistemas · APIs REST · Microservicios · CI/CD
+📊 Datos           Data-driven decisions · KPIs · Pandas · SQL Analytics
+🤝 Liderazgo      Gestión de stakeholders · Agile · SCRUM · Code Review
+```
+
+> *"La deuda técnica que no se gestiona hoy es el riesgo de negocio de mañana."*
 
 ---
 
-### 📈 Product Impact & Stats
-*Como TPM, mi actividad no se mide solo en commits, sino en la consistencia y arquitectura de las soluciones.*
+## 🛠️ Stack Técnico
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandezpalo83&layout=compact&theme=flat&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Langs" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hernandezpalo83&show_icons=true&theme=flat&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hernandezpalo83&theme=flat&hide_border=true" alt="Streak Stats" />
-</p>
+**Backend & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![REST API](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
+
+**Frontend & UX**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**DevOps & Plataforma**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
-### 🤝 Conectemos
-¿Buscas a alguien que hable el idioma de los desarrolladores y entienda las necesidades del negocio? Hablemos.
+## 🚀 Producto & Estrategia
 
-[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jhernandez14153" height="30" width="40" />](https://twitter.com/jhernandez14153)
-<br><br>
+| | Área | Skills |
+|--|------|--------|
+| 🗺️ | **Discovery** | Product Roadmap · User Stories · Jobs-to-be-Done · Benchmarking |
+| 📐 | **Priorización** | RICE · MoSCoW · Kano Model · Impact vs Effort |
+| 🔄 | **Delivery** | Agile · SCRUM · Kanban · Sprint Planning · Retrospectives |
+| 🤝 | **Stakeholders** | Executive Reporting · Demo Sessions · Feedback Loops · SLAs |
+| 🏗️ | **Ingeniería** | CI/CD · Deuda Técnica · Code Review · RFC Docs · ADRs |
+| 📈 | **Métricas** | KPIs · North Star Metric · Funnel Analysis · A/B Testing |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hernandezpalo83&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=0e75b6&icon_color=0e75b6&cache_seconds=1800" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandezpalo83&layout=compact&theme=default&hide_border=true&langs_count=6&title_color=0e75b6&cache_seconds=1800" alt="Top Languages"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=hernandezpalo83&theme=default&hide_border=true&ring=0e75b6&fire=CC0052&currStreakLabel=0e75b6" alt="GitHub Streak"/>
+
+*Como TPM, la consistencia y la arquitectura de las soluciones importan más que el volumen de commits.*
+
+</div>
+
+---
+
+## 🌟 Proyecto Destacado
+
+<div align="center">
+
+[![Portfolio Repo](https://github-readme-stats.vercel.app/api/pin/?username=hernandezpalo83&repo=porfolio&theme=default&hide_border=true&title_color=0e75b6&icon_color=0e75b6)](https://github.com/hernandezpalo83/porfolio)
+
+</div>
+
+**[hernandezpalo.es](https://hernandezpalo.es)** — Portfolio profesional construido como **CMS técnico escalable**:
+`Django 5.1` · `PostgreSQL` · `REST API` · `CI/CD GitHub Actions` · `SEO avanzado` · `Portal privado`
+
+---
+
+## 🤝 Conectemos
+
+<div align="center">
+
+¿Buscas a alguien que hable el idioma de los desarrolladores **y** entienda las necesidades del negocio?
+
+[![LinkedIn](https://img.shields.io/badge/Conecta_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-PERFIL-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Ver_Portfolio-CC0052?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hernandezpalo.es)
+[![Twitter](https://img.shields.io/badge/Sígueme_en_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jhernandez14153)
+
+</div>
