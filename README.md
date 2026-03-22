@@ -9,7 +9,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-hernandezpalo.es-CC0052?style=for-the-badge)](https://hernandezpalo.es)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-PERFIL-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-hernandez-martin-6473b321/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jhernandez14153)
 [![Profile Views](https://komarev.com/ghpvc/?username=hernandezpalo83&style=for-the-badge&color=0e75b6&label=Visitas)](https://github.com/hernandezpalo83)
 
@@ -94,16 +94,22 @@ Soy un **Technical Product Manager (TPM)** con sólida base en ingeniería de so
 
 ---
 
-## 🌟 Proyecto Destacado
+## 🌟 Proyectos Destacados
 
 <div align="center">
 
 [![Portfolio Repo](https://github-readme-stats.vercel.app/api/pin/?username=hernandezpalo83&repo=porfolio&theme=default&hide_border=true&title_color=0e75b6&icon_color=0e75b6)](https://github.com/hernandezpalo83/porfolio)
+[![GymTracker Repo](https://github-readme-stats.vercel.app/api/pin/?username=hernandezpalo83&repo=gymtraker&theme=default&hide_border=true&title_color=0e75b6&icon_color=0e75b6)](https://github.com/hernandezpalo83/gymtraker)
+
+[![Componentes Repo](https://github-readme-stats.vercel.app/api/pin/?username=hernandezpalo83&repo=COMPONENTES&theme=default&hide_border=true&title_color=0e75b6&icon_color=0e75b6)](https://github.com/hernandezpalo83/COMPONENTES)
 
 </div>
 
-**[hernandezpalo.es](https://hernandezpalo.es)** — Portfolio profesional construido como **CMS técnico escalable**:
-`Django 5.1` · `PostgreSQL` · `REST API` · `CI/CD GitHub Actions` · `SEO avanzado` · `Portal privado`
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| 🌐 **[hernandezpalo.es](https://hernandezpalo.es)** | Portfolio profesional como CMS técnico escalable | `Django 5.1` `PostgreSQL` `REST API` `CI/CD` |
+| 💪 **[gym.hernandezpalo.es](https://gym.hernandezpalo.es)** | App de seguimiento de entrenamiento y gestión de inventario deportivo | `Django` `Tabulator JS` `Bootstrap 5` `DRF` |
+| 🧩 **[componentes.hernandezpalo.es](https://componentes.hernandezpalo.es)** | Librería privada de componentes UI reutilizables para Django (46+ componentes) | `Django` `Tailwind` `Bootstrap 5` `Glassmorphism` |
 
 ---
 
@@ -113,7 +119,7 @@ Soy un **Technical Product Manager (TPM)** con sólida base en ingeniería de so
 
 ¿Buscas a alguien que hable el idioma de los desarrolladores **y** entienda las necesidades del negocio?
 
-[![LinkedIn](https://img.shields.io/badge/Conecta_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-PERFIL-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/Conecta_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-hernandez-martin-6473b321/)
 [![Portfolio](https://img.shields.io/badge/Ver_Portfolio-CC0052?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hernandezpalo.es)
 [![Twitter](https://img.shields.io/badge/Sígueme_en_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jhernandez14153)
 
